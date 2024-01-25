@@ -1,0 +1,17 @@
+export const color = {
+  white: 'white',
+  black: 'black',
+  gray: 'gray',
+  lightgray: 'lightgray',
+  chatBg: '#dbdbdb',
+  contactListBg: '#e8e8e8',
+  onSendBG: '#01D6C9',
+  pink: 'pink',
+  skyblue: 'skyblue',
+  cameraBg: '#f5b171',
+  captureBg: '#5b99fc',
+  contactBg: '#c37df5',
+  photoBg: '#549964',
+  videoBg: '#fadc2f',
+  lightblack: '#292929',
+};
